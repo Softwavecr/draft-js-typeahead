@@ -85,7 +85,6 @@ class TypeaheadEditor extends Editor {
   }
 
   onChange = (editorState) => {
-    console.log( 'something changed heere' )
     this.props.onChange(editorState);
 
     // Set typeahead visibility. Wait a frame to ensure that the cursor is
