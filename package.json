@@ -39,7 +39,7 @@
     "webpack-stream": "^3.1.0"
   },
   "dependencies": {
-    "draft-js": "^0.8.1",
+    "draft-js": "^0.10.1",
     "immutable": "^3.7.6",
     "react": "^0.14.7",
     "react-dom": "^0.14.7"
